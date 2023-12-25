@@ -1,3 +1,4 @@
+
 ![Header](https://www.careerguide.com/career/wp-content/uploads/2020/03/Floating-head-for-GIF-1.gif.gif)
 
 <h1 align="center">Hi 👋, I'm Pardeep Kumar</h1>
@@ -29,8 +30,9 @@
 <a href="https://twitter.com/parkmr027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parkmr027" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pardeep-kumar-73a79b78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pardeep-kumar-73a79b78" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17870261/parkmr027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17870261/parkmr027" height="30" width="40" /></a>
+<a href="https://instagram.com/parkmr027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parkmr027" height="30" width="40" /></a>
 <a href="https://medium.com/@parkmr027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parkmr027" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc8w8j7lrvolieyc-z2lpl7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8w8j7lrvolieyc-z2lpl7w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/grow bit by bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="grow bit by bit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
