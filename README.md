@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/parkmr027" target="blank"><img src="https://img.shields.io/twitter/follow/parkmr027?logo=twitter&style=for-the-badge" alt="parkmr027" /></a> </p>
 
-- 🔭 Devops / SRE Learning **Docker**
+- 🔭 Devops / SRE Learning **Kubernetes**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **K8S**
 
 - 📝 I regularly write articles on [https://medium.com/@parkmr027](https://medium.com/@parkmr027)
 
